@@ -16,7 +16,7 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
   { name: 'Home', icon: <HomeIcon />, },
-  { name: 'Vidyayan', icon: <SchoolIcon />, },
+  { name: 'Techiie', icon: <SchoolIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },
